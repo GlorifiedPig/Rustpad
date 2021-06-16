@@ -1,2 +1,2 @@
-# Rustpad
-📓 An open source notepad software written in Rust
+# Rustbook
+📓 An open-source notebook software written in Rust.
